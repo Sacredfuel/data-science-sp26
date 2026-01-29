@@ -65,7 +65,9 @@ Writing exam: more details to come ...
  <!-- will be given during finals week on the day and time assigned by the registrar.The written final exam is required and is comprehensive, covering all the material of the course. Sample exam questions will be available during the last weeks of the term. -->
 
 **Project**:
-A final project is optional for this course. The grade for the project is a combination of grades earned on the milestones (e.g. deadlines during the semester to keep the projects on track) and the overall submitted program. If you choose not to complete the project, your final exam grade will replace its portion of the overall grade. More details can be found on the [project page](project.ipynb). 
+A final project is optional for this course. The grade for the project is a combination of grades earned on the milestones (e.g. deadlines during the semester to keep the projects on track) and the overall submitted program. If you choose not to complete the project, your final exam grade will replace its portion of the overall grade. 
+
+<!-- More details can be found on the [project page](project.ipynb).  -->
 
 **Grades:**
 
