@@ -1,6 +1,5 @@
 ---
 title: Schedule
-hide_toc: true
 ---
 
 # Schedule
