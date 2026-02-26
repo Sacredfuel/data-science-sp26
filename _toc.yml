@@ -22,6 +22,9 @@ chapters:
   - file: lectures/lecture4
     title: Lecture 4
   - file: lectures/lecture5
+    title: Lecture 5
+  - file: lectures/lecture6
+    title: Lecture 6
 #    title: Lecture 5
   # - file: notebooks/assignment2
   #   title: Program 2
