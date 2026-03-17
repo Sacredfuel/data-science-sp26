@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/sachi/git/data-science-sp26/lectures/media/videos/lectures/720p30/partial_movie_files/VectorWithComponents/1987512680_2503103218_3452300104.mp4'
+file 'file:/home/sachi/git/data-science-sp26/lectures/media/videos/lectures/720p30/partial_movie_files/VectorWithComponents/2538612922_2978478260_1328406019.mp4'
+file 'file:/home/sachi/git/data-science-sp26/lectures/media/videos/lectures/720p30/partial_movie_files/VectorWithComponents/2538612922_3760994629_68642402.mp4'
+file 'file:/home/sachi/git/data-science-sp26/lectures/media/videos/lectures/720p30/partial_movie_files/VectorWithComponents/2538612922_3297525347_658172224.mp4'
+file 'file:/home/sachi/git/data-science-sp26/lectures/media/videos/lectures/720p30/partial_movie_files/VectorWithComponents/2538612922_3447071775_3654667091.mp4'
+file 'file:/home/sachi/git/data-science-sp26/lectures/media/videos/lectures/720p30/partial_movie_files/VectorWithComponents/2538612922_2688965532_590511153.mp4'
