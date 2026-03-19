@@ -12,6 +12,8 @@ chapters:
     title: Program 1
   - file: notebooks/assignment2
     title: Program 2
+  - file: notebooks/assignment3
+    title: Program 3
 - file: lectures/lectures
   title: Lectures
   sections:
@@ -37,6 +39,8 @@ chapters:
     title: Lecture 10
   - file: lectures/lecture11
     title: Lecture 11
+  - file: lectures/lecture12
+    title: Lecture 12
 #    title: Lecture 5
   # - file: notebooks/assignment2
   #   title: Program 2

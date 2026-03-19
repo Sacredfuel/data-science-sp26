@@ -13,3 +13,4 @@ This page lists the lecture notebooks.
 - [Lecture 9](lecture9)
 - [Lecture 10](lecture10)
 - [Lecture 11](lecture11)
+- [Lecture 12](lecture12)
