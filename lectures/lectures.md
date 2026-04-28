@@ -18,3 +18,4 @@ This page lists the lecture notebooks.
 - [Lecture 14](lecture14)
 - [Lecture 15](lecture15)
 - [Lecture 16](lecture16)
+- [Lecture 17](lecture17)
