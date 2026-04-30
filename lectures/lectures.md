@@ -19,3 +19,4 @@ This page lists the lecture notebooks.
 - [Lecture 15](lecture15)
 - [Lecture 16](lecture16)
 - [Lecture 17](lecture17)
+- [Lecture 18](https://drive.google.com/file/d/1XZvZZV6Fgp7tVaTMXKpd1CHzu1FVFsJc/view?usp=sharing)
