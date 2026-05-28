@@ -3,7 +3,7 @@
 ## CSci 39542: Introduction to Data Science
 
 **Department of Computer Science, Hunter College, City University of New York**  
-**Spring 2026**
+**Summer 2026**
 
 ---
 
@@ -13,7 +13,7 @@
 
 **Prerequisites:** CSci 127, Stat 213, and one of: CSci 133 or CSci 235.
 
-**Instructor:** [Ryan Vaz](mailto:rv846@hunter.cuny.edu) **Office hour:** 4.00PM - 5.00PM TuTh North 1008 or by appointment 
+**Instructor:** [Ryan Vaz](mailto:rv846@hunter.cuny.edu) **Office hour:**: by appointment 
 
 ---
 
@@ -21,7 +21,7 @@
 
 **Course Format:**
 
-- Synchronous in-person lectures are each Tuesdays and Thursday, 5:30pm-6:45pm at North 1001E
+- Synchronous in-person lectures are each Tuesdays and Thursday, 11:40am-2:30pm at North 1001D
 <!-- - Individual programming assignments and (optional) cumulative project -->
 - Midterm examination during lecture and final examination during the registrar-assigned time slot during finals week
 
@@ -57,12 +57,9 @@ Participation in lecture is measured by collected classwork. If you miss or do p
 The midterm covers material from the lecture notes, code demonstrations, classwork, and submitted programs. There is no make-up midterm examination. Instead, your score on the final exam will replace missing midterm grades (the final exam grade will also replace the midterm grade if you earn a higher grade on the final than the midterm). 
 
 **Final Exam:**
-There is a 2-part exam consisting of written and coding questions:
+There is a written final exam:
 
-Coding exam will be given either during finals week or the last week of class. It is a case-study style exam where you will be given a dataset and asked to perform various data science tasks on it within 24 hours. Expectation and rubric will be provided closer to the exam date.
-
-Writing exam: more details to come ...
- <!-- will be given during finals week on the day and time assigned by the registrar.The written final exam is required and is comprehensive, covering all the material of the course. Sample exam questions will be available during the last weeks of the term. -->
+Will be given during finals week on the day and time assigned by the registrar. The written final exam is required and is comprehensive, covering material from the second half of the course of the course. Sample exam questions will be available during the last week of the term.
 
 **Project**:
 A final project is optional for this course. The grade for the project is a combination of grades earned on the milestones (e.g. deadlines during the semester to keep the projects on track) and the overall submitted program. If you choose not to complete the project, your final exam grade will replace its portion of the overall grade. 
@@ -94,12 +91,12 @@ To respect your privacy, there is no need to provide documentation to take advan
 
 **This is a zero cost course. All textbook materials are freely available to enrolled students.**
 
-**Textbook & Readings:**
+<!-- **Textbook & Readings:**
 
 - UC Berkeley's Data Science 8 (DS 8): [The Foundations of Data Science](https://www.inferentialthinking.com/chapters/intro.html) by Ani Adhikari and John DeNero.
 - UC Berkeley's Data Science 100 (DS 100): [Principles and Techniques of Data Science](https://learningds.org/intro.html) by Sam Lau, Joey Gonzalez, and Deb Nolan.
 
-Additional readings and tutorials are available on the [resources](https://stjohn.github.io/datasci/fall23/resources.html) page.
+Additional readings and tutorials are available on the [resources](https://stjohn.github.io/datasci/fall23/resources.html) page. -->
 
 **Technology:**
 

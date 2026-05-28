@@ -10,57 +10,57 @@ chapters:
   sections:
   - file: notebooks/assignment1
     title: Program 1
-  - file: notebooks/assignment2
-    title: Program 2
-  - file: notebooks/assignment3
-    title: Program 3
-  - file: notebooks/assignment4
-    title: Program 4
+  # - file: notebooks/assignment2
+  #   title: Program 2
+  # - file: notebooks/assignment3
+  #   title: Program 3
+  # - file: notebooks/assignment4
+  #   title: Program 4
 - file: lectures/lectures
   title: Lectures
   sections:
   - file: lectures/lecture1
     title: Lecture 1
-  - file: lectures/lecture2
-    title: Lecture 2
-  - file: lectures/lecture3
-    title: Lecture 3
-  - file: lectures/lecture4
-    title: Lecture 4
-  - file: lectures/lecture5
-    title: Lecture 5
-  - file: lectures/lecture6
-    title: Lecture 6
-  - file: lectures/lecture7
-    title: Lecture 7
-  - file: lectures/lecture8
-    title: Lecture 8
-  - file: lectures/lecture9
-    title: Lecture 9
-  - file: lectures/lecture10
-    title: Lecture 10
-  - file: lectures/lecture11
-    title: Lecture 11
-  - file: lectures/lecture12
-    title: Lecture 12
-  - file: lectures/lecture13
-    title: Lecture 13
-  - file: lectures/lecture14
-    title: Lecture 14
-  - file: lectures/lecture15
-    title: Lecture 15
-  - file: lectures/lecture16
-    title: Lecture 16
-  - file: lectures/lecture17
-    title: Lecture 17
-  - url: https://drive.google.com/file/d/1XZvZZV6Fgp7tVaTMXKpd1CHzu1FVFsJc/view?usp=sharing
-    title: Lecture 18
-  - file: lectures/lecture19
-    title: Lecture 19
-  - file: lectures/lecture20
-    title: Lecture 20
-  - file: lectures/lecture21
-    title: Lecture 21
+  # - file: lectures/lecture2
+  #   title: Lecture 2
+  # - file: lectures/lecture3
+  #   title: Lecture 3
+  # - file: lectures/lecture4
+  #   title: Lecture 4
+  # - file: lectures/lecture5
+  #   title: Lecture 5
+  # - file: lectures/lecture6
+  #   title: Lecture 6
+  # - file: lectures/lecture7
+  #   title: Lecture 7
+  # - file: lectures/lecture8
+  #   title: Lecture 8
+  # - file: lectures/lecture9
+  #   title: Lecture 9
+  # - file: lectures/lecture10
+  #   title: Lecture 10
+  # - file: lectures/lecture11
+  #   title: Lecture 11
+  # - file: lectures/lecture12
+  #   title: Lecture 12
+  # - file: lectures/lecture13
+  #   title: Lecture 13
+  # - file: lectures/lecture14
+  #   title: Lecture 14
+  # - file: lectures/lecture15
+  #   title: Lecture 15
+  # - file: lectures/lecture16
+  #   title: Lecture 16
+  # - file: lectures/lecture17
+  #   title: Lecture 17
+  # - url: https://drive.google.com/file/d/1XZvZZV6Fgp7tVaTMXKpd1CHzu1FVFsJc/view?usp=sharing
+  #   title: Lecture 18
+  # - file: lectures/lecture19
+  #   title: Lecture 19
+  # - file: lectures/lecture20
+  #   title: Lecture 20
+  # - file: lectures/lecture21
+  #   title: Lecture 21
   #    title: Lecture 5
   # - file: notebooks/assignment2
   #   title: Program 2
