@@ -4,7 +4,7 @@ This page lists the lecture notebooks.
 
 - [Lecture 1](lecture1)
 - [Lecture 2](lecture2)
-- [Lecture 3](lecture3)
+<!-- - [Lecture 3](lecture3)
 - [Lecture 4](lecture4)
 - [Lecture 5](lecture5)
 - [Lecture 6](lecture6)
@@ -22,4 +22,4 @@ This page lists the lecture notebooks.
 - [Lecture 18 - (ST: Diffusion)](https://drive.google.com/file/d/1XZvZZV6Fgp7tVaTMXKpd1CHzu1FVFsJc/view?usp=sharing)
 - [Lecture 19](lecture19)
 - [Lecture 20](lecture20)
-- [Lecture 21](lecture21)
+- [Lecture 21](lecture21) -->
