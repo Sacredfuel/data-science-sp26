@@ -23,8 +23,8 @@ chapters:
     title: Lecture 1
   - file: lectures/lecture2
     title: Lecture 2
-  # - file: lectures/lecture3
-  #   title: Lecture 3
+  - file: lectures/lecture3
+    title: Lecture 3
   # - file: lectures/lecture4
   #   title: Lecture 4
   # - file: lectures/lecture5
