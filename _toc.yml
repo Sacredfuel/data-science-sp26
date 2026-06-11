@@ -25,8 +25,8 @@ chapters:
     title: Lecture 2
   - file: lectures/lecture3
     title: Lecture 3
-  # - file: lectures/lecture4
-  #   title: Lecture 4
+  - file: lectures/lecture4
+    title: Lecture 4
   # - file: lectures/lecture5
   #   title: Lecture 5
   # - file: lectures/lecture6
