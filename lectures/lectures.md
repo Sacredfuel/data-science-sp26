@@ -7,6 +7,7 @@ This page lists the lecture notebooks.
 - [Lecture 3](lecture3)
 - [Lecture 4](lecture4)
 - [Lecture 5](lecture5)
+- [Lecture 5C](lecture5C)
 <!-- - [Lecture 6](lecture6)
 - [Lecture 7](lecture7)
 - [Lecture 8](lecture8)
