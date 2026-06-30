@@ -34,6 +34,9 @@ chapters:
   - file: lectures/lecture7
     title: Lecture 7
   - file: lectures/lecture8
+    title: Lecture 8
+  - file: lectures/lectureSP
+    title: Lecture SP
   #   title: Lecture 8
   # - file: lectures/lecture9
   #   title: Lecture 9
