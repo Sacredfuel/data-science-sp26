@@ -3,7 +3,7 @@
 ## CSci 39542: Introduction to Data Science
 
 **Department of Computer Science, Hunter College, City University of New York**  
-**Summer 2026**
+**Fall 2026**
 
 ---
 
@@ -21,7 +21,7 @@
 
 **Course Format:**
 
-- Synchronous in-person lectures are each Tuesdays and Thursday, 11:40am-2:30pm at North 1001D
+- Synchronous in-person lectures are each Tuesdays and Thursday, 5.30pm-7.20pm at North 1001E
 <!-- - Individual programming assignments and (optional) cumulative project -->
 - Midterm examination during lecture and final examination during the registrar-assigned time slot during finals week
 

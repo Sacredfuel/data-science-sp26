@@ -5,40 +5,40 @@ chapters:
   title: Syllabus
 # - file: notebooks/classwork
 #   title: Classwork
-- file: notebooks/assignments
-  title: Programs
-  sections:
-  - file: notebooks/assignment1
-    title: Program 1
-  - file: notebooks/assignment2
-    title: Program 2
-  - file: notebooks/assignment3
-    title: Program 3
-  - file: notebooks/assignment4
-    title: Program 4
+# - file: notebooks/assignments
+#   title: Programs
+#   sections:
+#   - file: notebooks/assignment1
+#     title: Program 1
+  # - file: notebooks/assignment2
+  #   title: Program 2
+  # - file: notebooks/assignment3
+  #   title: Program 3
+  # - file: notebooks/assignment4
+  #   title: Program 4
 - file: lectures/lectures
   title: Lectures
   sections:
   - file: lectures/lecture1
     title: Lecture 1
-  - file: lectures/lecture2
-    title: Lecture 2
-  - file: lectures/lecture3
-    title: Lecture 3
-  - file: lectures/lecture4
-    title: Lecture 4
-  - file: lectures/lecture5
-    title: Lecture 5
-  - file: lectures/lecture6
-    title: Lecture 6
-  - file: lectures/lecture7
-    title: Lecture 7
-  - file: lectures/lecture8
-    title: Lecture 8
-  - file: lectures/lecture9
-    title: Lecture 9
-  - file: lectures/lectureSP
-    title: Lecture SP
+  # - file: lectures/lecture2
+  #   title: Lecture 2
+  # - file: lectures/lecture3
+  #   title: Lecture 3
+  # - file: lectures/lecture4
+  #   title: Lecture 4
+  # - file: lectures/lecture5
+  #   title: Lecture 5
+  # - file: lectures/lecture6
+  #   title: Lecture 6
+  # - file: lectures/lecture7
+  #   title: Lecture 7
+  # - file: lectures/lecture8
+  #   title: Lecture 8
+  # - file: lectures/lecture9
+  #   title: Lecture 9
+  # - file: lectures/lectureSP
+  #   title: Lecture SP
   #   title: Lecture 8
   # - file: lectures/lecture9
   #   title: Lecture 9

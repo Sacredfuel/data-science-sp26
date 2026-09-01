@@ -6,7 +6,7 @@ title: Schedule
 
 ## CSci 39542: Introduction to Data Science
 **Department of Computer Science** ([Hunter College](https://hunter.cuny.edu), [City University of New York](https://www.cuny.edu))  
-**Summer 2026**
+**Fall 2026**
 
 TL;DR: data-focused programming course with optional project.
 
