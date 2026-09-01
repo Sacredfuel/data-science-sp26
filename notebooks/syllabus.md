@@ -21,7 +21,7 @@
 
 **Course Format:**
 
-- Synchronous in-person lectures are each Tuesdays and Thursday, 5.30pm-7.20pm at North 1001E
+- Synchronous in-person lectures are each Tuesdays and Thursday, 5.30pm-6.45pm at North 1001F
 <!-- - Individual programming assignments and (optional) cumulative project -->
 - Midterm examination during lecture and final examination during the registrar-assigned time slot during finals week
 
