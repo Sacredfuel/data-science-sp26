@@ -1,6 +1,6 @@
 # Syllabus
 
-## CSci 39542: Introduction to Data Science
+## CSci 357: Techniques of Data Science
 
 **Department of Computer Science, Hunter College, City University of New York**  
 **Fall 2026**

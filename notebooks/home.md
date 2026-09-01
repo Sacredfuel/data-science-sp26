@@ -4,7 +4,7 @@ title: Schedule
 
 # Schedule
 
-## CSci 39542: Introduction to Data Science
+## CSci 357: Introduction to Data Science
 **Department of Computer Science** ([Hunter College](https://hunter.cuny.edu), [City University of New York](https://www.cuny.edu))  
 **Fall 2026**
 
